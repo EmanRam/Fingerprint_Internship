@@ -26,13 +26,16 @@ def chain_one_shot():
 
     # TODO 1a: Build a ChatPromptTemplate with a {topic} variable that asks the
     #          model to explain the topic to a 10-year-old in 2 sentences.
-    prompt = ...
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", "You are an assistant that explains the topic to a 10-year-old in 2 sentences."),
+        ("human", "{topic}")
+    ])
 
     # TODO 1b: Compose prompt | llm | StrOutputParser() using the LCEL pipe.
-    chain = ...
+    chain = prompt | llm | StrOutputParser()
 
     # TODO 1c: Invoke the chain with {"topic": "vector databases"} and return it.
-    return ...
+    return chain.invoke({"topic": "vector databases"})
 
 
 # ---------------------------------------------------------------------------
@@ -48,10 +51,10 @@ class DocClassification(BaseModel):
 def chain_structured(text: str):
     # TODO 2a: Use llm.with_structured_output(DocClassification) to get a model
     #          that returns a DocClassification object instead of raw text.
-    structured_llm = ...
+    structured_llm = llm.with_structured_output(DocClassification)
 
     # TODO 2b: Invoke it on `text` and return the object.
-    return ...
+    return structured_llm.invoke(text)
 
 
 # ---------------------------------------------------------------------------
@@ -64,11 +67,14 @@ def chain_summarize(doc_path: Path):
     text = doc_path.read_text(encoding="utf-8")
 
     # TODO 3a: Prompt the model to summarize {document} as exactly 3 bullet points.
-    prompt = ...
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", "You are an assistant that summarizes document as exactly 3 bullet points."),
+        ("human", "{document}")
+    ])
 
     # TODO 3b: Build and invoke the chain with {"document": text}. Return the result.
-    chain = ...
-    return ...
+    chain = prompt | llm | StrOutputParser()
+    return chain.invoke({"document": text})
 
 
 if __name__ == "__main__":
