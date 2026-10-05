@@ -1,0 +1,14 @@
+Hiring sync - Perception
+Date: 2026-06-26
+Attendees: Grace, Tom, Felix, Lena
+
+Notes:
+- Discussed the 3-day offsite agenda; Grace owns logistics.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Reminder: expense claims for the trade show are due soon.
+
+Action items:
+- Lena: follow up before next meeting
+- Grace: update the board

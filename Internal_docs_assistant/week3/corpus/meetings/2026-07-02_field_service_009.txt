@@ -1,0 +1,12 @@
+Ops review - Field Service
+Date: 2026-07-02
+Attendees: Sofia, Nour, Lena, Omar
+
+Notes:
+- Customer asked about error codes in the 200 range; Nour to send the reference sheet.
+- Sofia mentioned the learning budget for the robotics conference.
+- Nour raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Nour: follow up before next meeting
+- Nour: update the board

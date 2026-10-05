@@ -1,0 +1,33 @@
+# --- Core LangChain stack ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+langsmith>=0.1.100
+
+# --- Model / embedding providers (install what you use) ---
+langchain-openai>=0.2.0        # OpenAI (default in starter code)
+langchain-groq>=0.2.0          # Groq (fast, free tier) — optional
+langchain-ollama>=0.2.0        # Local models via Ollama — optional
+langchain-huggingface>=0.1.0   # HuggingFace embeddings/models — optional
+
+# --- Vector stores ---
+faiss-cpu>=1.8.0
+chromadb>=0.5.0
+langchain-chroma>=0.1.4
+
+# --- Document loading / parsing ---
+pypdf>=5.0.0
+beautifulsoup4>=4.12.0
+unstructured>=0.15.0
+tiktoken>=0.7.0
+
+# --- Retrieval add-ons (Task 6) ---
+rank-bm25>=0.2.2               # keyword/BM25 retriever for hybrid search
+
+# --- App / UI (capstone) ---
+streamlit>=1.37.0
+python-dotenv>=1.0.0
+
+# --- Dev / testing ---
+pytest>=8.0.0

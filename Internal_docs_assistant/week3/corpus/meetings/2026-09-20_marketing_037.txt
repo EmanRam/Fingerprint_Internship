@@ -1,0 +1,12 @@
+Planning - Marketing
+Date: 2026-09-20
+Attendees: Grace, Mariam, Priya, Felix
+
+Notes:
+- Mariam mentioned the learning budget for the robotics conference.
+- Mariam will be on PTO from Thursday - hand over open tickets.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+
+Action items:
+- Felix: follow up before next meeting
+- Grace: update the board

@@ -1,0 +1,13 @@
+Sprint review - Field Service
+Date: 2026-09-07
+Attendees: Jonas, Ahmed, Nour, Salma
+
+Notes:
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Salma is on PTO next week; Ahmed covers support.
+- Salma had trouble with the VPN at the customer site again.
+
+Action items:
+- Jonas: follow up before next meeting
+- Jonas: update the board

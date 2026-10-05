@@ -1,0 +1,12 @@
+1:1 notes (shared) - Customer Success
+Date: 2026-02-03
+Attendees: Felix, Priya, Lena, Daniel
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Felix mentioned the learning budget for the robotics conference.
+- Daniel asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Felix: follow up before next meeting
+- Daniel: update the board

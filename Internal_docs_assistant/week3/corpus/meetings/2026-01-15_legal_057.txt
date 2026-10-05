@@ -1,0 +1,13 @@
+Sprint review - Legal
+Date: 2026-01-15
+Attendees: Grace, Ahmed, Felix, Mariam
+
+Notes:
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Ahmed asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Grace raised the password reset flow - users keep getting locked out.
+- Ahmed will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Felix: update the board

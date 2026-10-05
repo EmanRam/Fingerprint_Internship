@@ -1,0 +1,13 @@
+Ops review - Legal
+Date: 2026-07-02
+Attendees: Nour, Jonas, Ahmed, Priya
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Nour raised the password reset flow - users keep getting locked out.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+
+Action items:
+- Nour: follow up before next meeting
+- Nour: update the board

@@ -1,0 +1,12 @@
+Weekly team meeting - Fleet Software
+Date: 2026-01-01
+Attendees: Mariam, Nour, Ahmed, Salma
+
+Notes:
+- Mariam is on PTO next week; Ahmed covers support.
+- Customer asked about error codes in the 200 range; Mariam to send the reference sheet.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Nour: follow up before next meeting
+- Salma: update the board

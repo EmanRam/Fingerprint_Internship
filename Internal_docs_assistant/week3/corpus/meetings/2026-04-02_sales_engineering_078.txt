@@ -1,0 +1,13 @@
+Sprint review - Sales Engineering
+Date: 2026-04-02
+Attendees: Felix, Daniel, Omar, Priya
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Customer asked about error codes in the 200 range; Felix to send the reference sheet.
+- Travel to the Cairo office for the R3 training is approved for two people.
+
+Action items:
+- Omar: follow up before next meeting
+- Felix: update the board

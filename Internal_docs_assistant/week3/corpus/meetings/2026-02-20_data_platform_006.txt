@@ -1,0 +1,12 @@
+Site rollout check-in - Data Platform
+Date: 2026-02-20
+Attendees: Mariam, Hana, Yara, Karim
+
+Notes:
+- Karim is on PTO next week; Yara covers support.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Hana raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Hana: follow up before next meeting
+- Yara: update the board

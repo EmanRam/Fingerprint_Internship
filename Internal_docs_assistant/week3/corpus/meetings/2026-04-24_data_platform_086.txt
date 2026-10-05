@@ -1,0 +1,14 @@
+Retro - Data Platform
+Date: 2026-04-24
+Attendees: Karim, Ahmed, Jonas, Lena
+
+Notes:
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Karim asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Customer asked about error codes in the 200 range; Lena to send the reference sheet.
+
+Action items:
+- Karim: follow up before next meeting
+- Ahmed: update the board

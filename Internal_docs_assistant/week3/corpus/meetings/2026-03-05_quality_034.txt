@@ -1,0 +1,13 @@
+Weekly team meeting - Quality
+Date: 2026-03-05
+Attendees: Yara, Grace, Felix, Ahmed
+
+Notes:
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Yara is on PTO next week; Grace covers support.
+
+Action items:
+- Grace: follow up before next meeting
+- Felix: update the board

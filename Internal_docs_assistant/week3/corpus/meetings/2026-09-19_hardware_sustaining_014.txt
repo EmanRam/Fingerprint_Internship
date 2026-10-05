@@ -1,0 +1,14 @@
+Hiring sync - Hardware Sustaining
+Date: 2026-09-19
+Attendees: Felix, Ahmed, Hana, Daniel
+
+Notes:
+- Hana raised the password reset flow - users keep getting locked out.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Discussed the 3-day offsite agenda; Daniel owns logistics.
+- Felix is on PTO next week; Hana covers support.
+- Hana asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Hana: follow up before next meeting
+- Daniel: update the board

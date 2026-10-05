@@ -1,0 +1,26 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.ruff_cache/
+.pytest_cache/
+.DS_Store
+
+# Indexes and caches
+**/faiss_index*/
+**/chroma_db/
+*.faiss
+*.pkl
+**/embedding_cache/
+
+# Eval output — dev runs stay local; test runs are COMMITTED (rule 5 audit trail)
+eval/runs/dev/
+holdout_results.json
+
+# Mentor-only material lives outside this repo (aug-26/mentor-private/). Belt and braces:
+_mentor/
+MENTOR_GUIDE*
+*PRIVATE*
+holdout_eval*

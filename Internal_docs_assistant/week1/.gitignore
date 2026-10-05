@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Persisted vector stores / indexes generated while working
+**/faiss_index/
+**/chroma_db/
+*.faiss
+*.pkl
+.DS_Store
+
+# Mentor-only material lives outside this repo (aug-26/mentor-private/)
+MENTOR_GUIDE*
+*PRIVATE*

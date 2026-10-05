@@ -1,0 +1,13 @@
+Weekly team meeting - Motion Planning
+Date: 2026-02-25
+Attendees: Priya, Felix, Jonas, Ahmed
+
+Notes:
+- Customer asked about error codes in the 200 range; Felix to send the reference sheet.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Felix: follow up before next meeting
+- Felix: update the board

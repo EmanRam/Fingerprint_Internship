@@ -1,0 +1,12 @@
+Site rollout check-in - Legal
+Date: 2026-03-28
+Attendees: Grace, Sofia, Mariam, Felix
+
+Notes:
+- Felix had trouble with the VPN at the customer site again.
+- Sofia will be on PTO from Thursday - hand over open tickets.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+
+Action items:
+- Grace: follow up before next meeting
+- Grace: update the board

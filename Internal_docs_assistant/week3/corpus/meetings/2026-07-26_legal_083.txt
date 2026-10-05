@@ -1,0 +1,13 @@
+Hiring sync - Legal
+Date: 2026-07-26
+Attendees: Karim, Salma, Jonas, Ahmed
+
+Notes:
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Karim had trouble with the VPN at the customer site again.
+- Reminder: expense claims for the trade show are due soon.
+- Jonas will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Ahmed: update the board

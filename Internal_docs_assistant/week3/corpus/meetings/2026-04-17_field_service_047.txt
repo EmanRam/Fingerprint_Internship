@@ -1,0 +1,13 @@
+Weekly team meeting - Field Service
+Date: 2026-04-17
+Attendees: Nour, Sofia, Karim, Grace
+
+Notes:
+- Sofia will be on PTO from Thursday - hand over open tickets.
+- Sofia is on PTO next week; Grace covers support.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Grace: follow up before next meeting
+- Nour: update the board

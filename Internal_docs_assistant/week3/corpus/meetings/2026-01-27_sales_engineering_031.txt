@@ -1,0 +1,14 @@
+Ops review - Sales Engineering
+Date: 2026-01-27
+Attendees: Jonas, Grace, Mariam, Felix
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Mariam mentioned the learning budget for the robotics conference.
+- Mariam had trouble with the VPN at the customer site again.
+- Customer asked about error codes in the 200 range; Mariam to send the reference sheet.
+- Discussed the 3-day offsite agenda; Grace owns logistics.
+
+Action items:
+- Grace: follow up before next meeting
+- Mariam: update the board

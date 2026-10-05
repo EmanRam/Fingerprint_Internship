@@ -1,0 +1,14 @@
+Sprint review - People Operations
+Date: 2026-08-22
+Attendees: Mariam, Tom, Karim, Felix
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Felix had trouble with the VPN at the customer site again.
+- Tom asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Felix: follow up before next meeting
+- Felix: update the board

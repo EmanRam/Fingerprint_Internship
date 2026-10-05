@@ -1,0 +1,52 @@
+# Task 4 — compose skeleton.
+# Copy to the repo root as `docker-compose.yml`.
+#
+# Goal: `docker compose up` from a clean checkout, with only .env supplied,
+# gives a working assistant.
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env          # passed at RUNTIME — never COPY'd into the image
+    volumes:
+      # TODO 1: mount a named volume at the container's INDEX_PATH so the FAISS
+      #         index survives image rebuilds. Without this, every rebuild
+      #         silently re-embeds the whole corpus.
+      - index_data:/data
+    # TODO 2: add a healthcheck hitting /healthz, so `depends_on: condition:
+    #         service_healthy` below actually means something.
+    restart: unless-stopped
+
+  ui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # TODO 3: override the command to run Streamlit instead of uvicorn.
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      # The UI talks to the API by SERVICE NAME on the compose network —
+      # not localhost, which inside a container means the container itself.
+      - API_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  index_data:
+
+# ---------------------------------------------------------------------------
+# Verify before the PR:
+#   git clone <repo> /tmp/fresh && cd /tmp/fresh && cp ~/.env . && docker compose up
+#
+# If that doesn't produce a working assistant, the task isn't done — regardless
+# of how well it runs in your own directory.
+# ---------------------------------------------------------------------------

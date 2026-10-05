@@ -1,0 +1,12 @@
+Weekly team meeting - Security
+Date: 2026-09-23
+Attendees: Jonas, Hana, Omar, Nour
+
+Notes:
+- Omar had trouble with the VPN at the customer site again.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Reminder: expense claims for the trade show are due soon.
+
+Action items:
+- Omar: follow up before next meeting
+- Jonas: update the board

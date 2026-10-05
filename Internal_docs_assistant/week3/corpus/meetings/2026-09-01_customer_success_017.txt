@@ -1,0 +1,12 @@
+Weekly team meeting - Customer Success
+Date: 2026-09-01
+Attendees: Hana, Salma, Karim, Grace
+
+Notes:
+- Grace is on PTO next week; Salma covers support.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Salma had trouble with the VPN at the customer site again.
+
+Action items:
+- Hana: follow up before next meeting
+- Salma: update the board

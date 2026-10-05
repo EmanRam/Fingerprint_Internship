@@ -1,0 +1,12 @@
+Planning - Hardware Sustaining
+Date: 2026-09-26
+Attendees: Yara, Jonas, Mariam, Priya
+
+Notes:
+- Mariam will be on PTO from Thursday - hand over open tickets.
+- Customer asked about error codes in the 200 range; Jonas to send the reference sheet.
+- Mariam raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Mariam: follow up before next meeting
+- Jonas: update the board

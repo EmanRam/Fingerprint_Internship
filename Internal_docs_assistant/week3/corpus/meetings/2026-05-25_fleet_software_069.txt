@@ -1,0 +1,14 @@
+Planning - Fleet Software
+Date: 2026-05-25
+Attendees: Jonas, Mariam, Priya, Nour
+
+Notes:
+- Priya is on PTO next week; Jonas covers support.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Mariam mentioned the learning budget for the robotics conference.
+
+Action items:
+- Priya: follow up before next meeting
+- Nour: update the board

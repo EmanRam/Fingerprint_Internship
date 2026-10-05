@@ -1,0 +1,14 @@
+Weekly team meeting - People Operations
+Date: 2026-07-18
+Attendees: Ahmed, Yara, Mariam, Jonas
+
+Notes:
+- Ahmed asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Reminder: expense claims for the trade show are due soon.
+- Mariam had trouble with the VPN at the customer site again.
+- Yara raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Yara: follow up before next meeting
+- Ahmed: update the board

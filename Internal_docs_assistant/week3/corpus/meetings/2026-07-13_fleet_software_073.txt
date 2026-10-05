@@ -1,0 +1,14 @@
+Ops review - Fleet Software
+Date: 2026-07-13
+Attendees: Felix, Jonas, Priya, Tom
+
+Notes:
+- Discussed the 3-day offsite agenda; Priya owns logistics.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Customer asked about error codes in the 200 range; Felix to send the reference sheet.
+- Priya had trouble with the VPN at the customer site again.
+
+Action items:
+- Felix: follow up before next meeting
+- Tom: update the board

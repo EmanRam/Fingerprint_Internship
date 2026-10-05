@@ -1,0 +1,14 @@
+1:1 notes (shared) - Legal
+Date: 2026-03-16
+Attendees: Daniel, Jonas, Mariam, Nour
+
+Notes:
+- Customer asked about error codes in the 200 range; Nour to send the reference sheet.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Reminder: expense claims for the trade show are due soon.
+- Nour had trouble with the VPN at the customer site again.
+- Mariam mentioned the learning budget for the robotics conference.
+
+Action items:
+- Daniel: follow up before next meeting
+- Daniel: update the board

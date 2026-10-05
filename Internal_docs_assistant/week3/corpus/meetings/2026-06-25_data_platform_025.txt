@@ -1,0 +1,13 @@
+Hiring sync - Data Platform
+Date: 2026-06-25
+Attendees: Felix, Sofia, Jonas, Hana
+
+Notes:
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Customer asked about error codes in the 200 range; Felix to send the reference sheet.
+- Discussed the 3-day offsite agenda; Jonas owns logistics.
+
+Action items:
+- Jonas: follow up before next meeting
+- Sofia: update the board

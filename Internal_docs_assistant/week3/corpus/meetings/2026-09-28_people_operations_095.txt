@@ -1,0 +1,14 @@
+Hiring sync - People Operations
+Date: 2026-09-28
+Attendees: Grace, Daniel, Mariam, Omar
+
+Notes:
+- Mariam asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Daniel had trouble with the VPN at the customer site again.
+- Daniel mentioned the learning budget for the robotics conference.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Omar: follow up before next meeting
+- Omar: update the board

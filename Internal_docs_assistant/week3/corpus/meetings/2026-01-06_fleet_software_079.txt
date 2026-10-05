@@ -1,0 +1,12 @@
+Sprint review - Fleet Software
+Date: 2026-01-06
+Attendees: Omar, Priya, Yara, Salma
+
+Notes:
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Omar had trouble with the VPN at the customer site again.
+- Priya is on PTO next week; Salma covers support.
+
+Action items:
+- Priya: follow up before next meeting
+- Salma: update the board

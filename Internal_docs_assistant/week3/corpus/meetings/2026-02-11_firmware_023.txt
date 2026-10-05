@@ -1,0 +1,13 @@
+Customer escalation sync - Firmware
+Date: 2026-02-11
+Attendees: Grace, Mariam, Jonas, Felix
+
+Notes:
+- Grace had trouble with the VPN at the customer site again.
+- Discussed the 3-day offsite agenda; Felix owns logistics.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Mariam raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Felix: follow up before next meeting
+- Jonas: update the board

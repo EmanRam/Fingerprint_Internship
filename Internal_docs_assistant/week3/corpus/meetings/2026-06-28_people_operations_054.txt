@@ -1,0 +1,14 @@
+Site rollout check-in - People Operations
+Date: 2026-06-28
+Attendees: Daniel, Yara, Tom, Sofia
+
+Notes:
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Sofia is on PTO next week; Yara covers support.
+- Yara will be on PTO from Thursday - hand over open tickets.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Daniel raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Daniel: follow up before next meeting
+- Daniel: update the board

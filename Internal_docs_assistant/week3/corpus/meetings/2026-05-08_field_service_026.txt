@@ -1,0 +1,13 @@
+Customer escalation sync - Field Service
+Date: 2026-05-08
+Attendees: Nour, Lena, Yara, Hana
+
+Notes:
+- Hana had trouble with the VPN at the customer site again.
+- Discussed the 3-day offsite agenda; Nour owns logistics.
+- Customer asked about error codes in the 200 range; Yara to send the reference sheet.
+- Hana raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Nour: follow up before next meeting
+- Hana: update the board

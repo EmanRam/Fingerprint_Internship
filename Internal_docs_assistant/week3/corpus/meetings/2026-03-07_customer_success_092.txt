@@ -1,0 +1,13 @@
+Ops review - Customer Success
+Date: 2026-03-07
+Attendees: Hana, Priya, Daniel, Grace
+
+Notes:
+- Customer asked about error codes in the 200 range; Hana to send the reference sheet.
+- Daniel asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Daniel is on PTO next week; Priya covers support.
+- Daniel had trouble with the VPN at the customer site again.
+
+Action items:
+- Priya: follow up before next meeting
+- Daniel: update the board

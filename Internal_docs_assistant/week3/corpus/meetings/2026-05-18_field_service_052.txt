@@ -1,0 +1,12 @@
+1:1 notes (shared) - Field Service
+Date: 2026-05-18
+Attendees: Hana, Felix, Karim, Ahmed
+
+Notes:
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Reminder: expense claims for the trade show are due soon.
+- Felix had trouble with the VPN at the customer site again.
+
+Action items:
+- Felix: follow up before next meeting
+- Ahmed: update the board

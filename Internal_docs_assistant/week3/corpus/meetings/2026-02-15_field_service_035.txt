@@ -1,0 +1,12 @@
+Ops review - Field Service
+Date: 2026-02-15
+Attendees: Jonas, Lena, Ahmed, Salma
+
+Notes:
+- Customer asked about error codes in the 200 range; Jonas to send the reference sheet.
+- Ahmed is on PTO next week; Lena covers support.
+- Jonas mentioned the learning budget for the robotics conference.
+
+Action items:
+- Lena: follow up before next meeting
+- Jonas: update the board

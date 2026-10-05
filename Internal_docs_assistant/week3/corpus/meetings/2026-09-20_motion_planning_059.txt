@@ -1,0 +1,14 @@
+Retro - Motion Planning
+Date: 2026-09-20
+Attendees: Yara, Grace, Daniel, Karim
+
+Notes:
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Daniel had trouble with the VPN at the customer site again.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Discussed the 3-day offsite agenda; Grace owns logistics.
+- Customer asked about error codes in the 200 range; Grace to send the reference sheet.
+
+Action items:
+- Daniel: follow up before next meeting
+- Daniel: update the board

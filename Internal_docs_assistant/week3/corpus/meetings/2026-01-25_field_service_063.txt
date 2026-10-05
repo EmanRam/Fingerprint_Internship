@@ -1,0 +1,12 @@
+1:1 notes (shared) - Field Service
+Date: 2026-01-25
+Attendees: Tom, Sofia, Ahmed, Yara
+
+Notes:
+- Sofia is on PTO next week; Yara covers support.
+- Sofia asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Yara had trouble with the VPN at the customer site again.
+
+Action items:
+- Tom: follow up before next meeting
+- Tom: update the board

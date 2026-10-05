@@ -1,0 +1,12 @@
+Sprint review - Hardware Sustaining
+Date: 2026-04-17
+Attendees: Felix, Sofia, Omar, Daniel
+
+Notes:
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+
+Action items:
+- Omar: follow up before next meeting
+- Sofia: update the board

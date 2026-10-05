@@ -1,0 +1,13 @@
+Ops review - Marketing
+Date: 2026-07-20
+Attendees: Mariam, Salma, Felix, Nour
+
+Notes:
+- Nour mentioned the learning budget for the robotics conference.
+- Felix had trouble with the VPN at the customer site again.
+- Mariam raised the password reset flow - users keep getting locked out.
+- Felix will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Mariam: follow up before next meeting
+- Mariam: update the board

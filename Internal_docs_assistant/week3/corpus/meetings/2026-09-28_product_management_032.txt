@@ -1,0 +1,12 @@
+Planning - Product Management
+Date: 2026-09-28
+Attendees: Hana, Nour, Mariam, Tom
+
+Notes:
+- Customer asked about error codes in the 200 range; Tom to send the reference sheet.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Nour mentioned the learning budget for the robotics conference.
+
+Action items:
+- Tom: follow up before next meeting
+- Nour: update the board

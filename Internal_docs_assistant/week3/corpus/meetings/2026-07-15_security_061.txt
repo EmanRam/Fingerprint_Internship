@@ -1,0 +1,14 @@
+Release readiness - Security
+Date: 2026-07-15
+Attendees: Mariam, Tom, Omar, Felix
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Felix mentioned the learning budget for the robotics conference.
+- Omar is on PTO next week; Mariam covers support.
+- Tom will be on PTO from Thursday - hand over open tickets.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+
+Action items:
+- Tom: follow up before next meeting
+- Tom: update the board

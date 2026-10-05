@@ -1,0 +1,14 @@
+Retro - Finance
+Date: 2026-05-01
+Attendees: Salma, Tom, Karim, Lena
+
+Notes:
+- Salma raised the password reset flow - users keep getting locked out.
+- Karim is on PTO next week; Tom covers support.
+- Customer asked about error codes in the 200 range; Salma to send the reference sheet.
+- Discussed the 3-day offsite agenda; Karim owns logistics.
+- Lena will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Karim: follow up before next meeting
+- Karim: update the board

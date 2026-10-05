@@ -1,0 +1,13 @@
+Ops review - Field Service
+Date: 2026-09-04
+Attendees: Lena, Felix, Priya, Daniel
+
+Notes:
+- Felix mentioned the learning budget for the robotics conference.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Travel to the Cairo office for the R3 training is approved for two people.
+
+Action items:
+- Daniel: follow up before next meeting
+- Priya: update the board

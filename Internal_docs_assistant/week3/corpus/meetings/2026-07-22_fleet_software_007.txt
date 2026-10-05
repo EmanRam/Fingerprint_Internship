@@ -1,0 +1,13 @@
+Hiring sync - Fleet Software
+Date: 2026-07-22
+Attendees: Ahmed, Salma, Lena, Hana
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Ahmed asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Hana mentioned the learning budget for the robotics conference.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+
+Action items:
+- Lena: follow up before next meeting
+- Ahmed: update the board

@@ -1,0 +1,13 @@
+1:1 notes (shared) - IT Operations
+Date: 2026-03-25
+Attendees: Tom, Omar, Mariam, Priya
+
+Notes:
+- Tom will be on PTO from Thursday - hand over open tickets.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Omar asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Tom: follow up before next meeting
+- Mariam: update the board

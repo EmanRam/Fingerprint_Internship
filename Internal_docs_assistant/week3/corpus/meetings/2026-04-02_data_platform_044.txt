@@ -1,0 +1,13 @@
+Ops review - Data Platform
+Date: 2026-04-02
+Attendees: Yara, Hana, Salma, Lena
+
+Notes:
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Yara will be on PTO from Thursday - hand over open tickets.
+- Yara had trouble with the VPN at the customer site again.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+
+Action items:
+- Yara: follow up before next meeting
+- Hana: update the board

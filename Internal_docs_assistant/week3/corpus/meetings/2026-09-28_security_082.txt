@@ -1,0 +1,14 @@
+Hiring sync - Security
+Date: 2026-09-28
+Attendees: Priya, Lena, Jonas, Tom
+
+Notes:
+- Tom will be on PTO from Thursday - hand over open tickets.
+- Jonas had trouble with the VPN at the customer site again.
+- Customer asked about error codes in the 200 range; Jonas to send the reference sheet.
+- Tom is on PTO next week; Lena covers support.
+- Lena asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Priya: follow up before next meeting
+- Tom: update the board

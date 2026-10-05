@@ -1,0 +1,13 @@
+Customer escalation sync - Manufacturing
+Date: 2026-07-26
+Attendees: Priya, Felix, Grace, Ahmed
+
+Notes:
+- Grace raised the password reset flow - users keep getting locked out.
+- Ahmed will be on PTO from Thursday - hand over open tickets.
+- Discussed the 3-day offsite agenda; Grace owns logistics.
+- Travel to the Cairo office for the R3 training is approved for two people.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Grace: update the board

@@ -1,0 +1,13 @@
+Site rollout check-in - Data Platform
+Date: 2026-09-27
+Attendees: Yara, Ahmed, Jonas, Priya
+
+Notes:
+- Customer asked about error codes in the 200 range; Priya to send the reference sheet.
+- Jonas raised the password reset flow - users keep getting locked out.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Reminder: expense claims for the trade show are due soon.
+
+Action items:
+- Priya: follow up before next meeting
+- Yara: update the board

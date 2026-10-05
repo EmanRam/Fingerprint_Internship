@@ -1,0 +1,14 @@
+Retro - Firmware
+Date: 2026-01-27
+Attendees: Hana, Mariam, Felix, Daniel
+
+Notes:
+- Discussed the 3-day offsite agenda; Hana owns logistics.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Reminder: expense claims for the trade show are due soon.
+- Mariam mentioned the learning budget for the robotics conference.
+- Mariam will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Hana: follow up before next meeting
+- Hana: update the board

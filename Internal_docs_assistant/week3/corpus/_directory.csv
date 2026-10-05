@@ -1,0 +1,7 @@
+user_id,name,title,department,office,groups,hire_date
+u1001,Omar Hassan,Robotics Engineer,Engineering,Austin,all,2021-04-12
+u1002,Mariam Adel,Support Engineer,Customer Success,Cairo,all,2024-09-01
+u1003,Lena Vogel,Account Executive,Sales,Berlin,all,2019-02-18
+u2001,Priya Raman,Engineering Manager,Engineering,Austin,all;managers,2018-06-04
+u3001,Karim Nabil,HR Business Partner,People Operations,Cairo,all;hr,2020-01-06
+u3002,Sarah Mitchell,VP People,People Operations,Austin,all;managers;hr;hr-leadership,2017-03-13

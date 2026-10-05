@@ -1,0 +1,14 @@
+Ops review - Hardware Sustaining
+Date: 2026-04-13
+Attendees: Priya, Daniel, Tom, Ahmed
+
+Notes:
+- Priya will be on PTO from Thursday - hand over open tickets.
+- Priya asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Priya had trouble with the VPN at the customer site again.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Tom: update the board

@@ -1,0 +1,10 @@
+{"question": "How many days of PTO do full-time employees accrue per year?", "answer": "20 days per year (accruing at 1.67 days per month).", "source": "employee_handbook.md"}
+{"question": "How many PTO days can be carried over to the next calendar year?", "answer": "Up to 5 days; anything above 5 is forfeited on December 31.", "source": "employee_handbook.md"}
+{"question": "How many paid sick days do employees get, and do they carry over?", "answer": "10 paid sick days per year, and they do not carry over.", "source": "employee_handbook.md"}
+{"question": "What is the parental leave for a non-birth or adoptive parent?", "answer": "10 weeks of fully paid leave, taken within 12 months of birth or placement.", "source": "employee_handbook.md"}
+{"question": "What should an employee do if their laptop is lost or stolen?", "answer": "Immediately report it to the Security team and file an URGENT ticket; Security will remotely wipe the device. Do not wait until the next business day.", "source": "it_faq.md"}
+{"question": "What are the corporate password requirements?", "answer": "At least 14 characters, rotated every 180 days; the account locks for 30 minutes after 5 failed attempts.", "source": "it_faq.md"}
+{"question": "What is the daily meal reimbursement limit for international travel?", "answer": "$110 per day for international travel (alcohol is not reimbursable).", "source": "hr_policies.md"}
+{"question": "How large is the employee referral bonus and when is it paid?", "answer": "$3,000, paid after the referred new hire completes 90 days.", "source": "hr_policies.md"}
+{"question": "What is the payload capacity of the Warehouse Rover R2?", "answer": "80 kg.", "source": "product_specs.md"}
+{"question": "What response SLA does premium support provide for the Rover R2?", "answer": "24/7 coverage with a 1-hour response SLA.", "source": "product_specs.md"}

@@ -1,0 +1,12 @@
+Ops review - Hardware Sustaining
+Date: 2026-09-07
+Attendees: Tom, Mariam, Grace, Omar
+
+Notes:
+- Omar mentioned the learning budget for the robotics conference.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Reminder: expense claims for the trade show are due soon.
+
+Action items:
+- Tom: follow up before next meeting
+- Mariam: update the board

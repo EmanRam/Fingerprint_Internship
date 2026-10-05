@@ -1,0 +1,14 @@
+Planning - IT Operations
+Date: 2026-05-07
+Attendees: Priya, Sofia, Mariam, Omar
+
+Notes:
+- Sofia is on PTO next week; Priya covers support.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Priya mentioned the learning budget for the robotics conference.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Sofia: follow up before next meeting
+- Mariam: update the board

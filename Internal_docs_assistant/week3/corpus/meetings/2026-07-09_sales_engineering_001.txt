@@ -1,0 +1,14 @@
+Retro - Sales Engineering
+Date: 2026-07-09
+Attendees: Felix, Salma, Ahmed, Hana
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Hana raised the password reset flow - users keep getting locked out.
+- Ahmed will be on PTO from Thursday - hand over open tickets.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Travel to the Cairo office for the R3 training is approved for two people.
+
+Action items:
+- Felix: follow up before next meeting
+- Hana: update the board

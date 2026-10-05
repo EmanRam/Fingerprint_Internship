@@ -1,0 +1,12 @@
+Release readiness - Hardware Sustaining
+Date: 2026-02-02
+Attendees: Karim, Yara, Ahmed, Tom
+
+Notes:
+- Ahmed asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Discussed the 3-day offsite agenda; Tom owns logistics.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+
+Action items:
+- Yara: follow up before next meeting
+- Yara: update the board

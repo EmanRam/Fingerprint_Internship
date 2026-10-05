@@ -1,0 +1,12 @@
+Customer escalation sync - Supply Chain
+Date: 2026-02-10
+Attendees: Nour, Lena, Karim, Jonas
+
+Notes:
+- Jonas asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Nour mentioned the learning budget for the robotics conference.
+- Lena had trouble with the VPN at the customer site again.
+
+Action items:
+- Karim: follow up before next meeting
+- Nour: update the board

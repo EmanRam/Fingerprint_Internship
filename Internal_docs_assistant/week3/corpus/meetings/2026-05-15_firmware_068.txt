@@ -1,0 +1,12 @@
+Customer escalation sync - Firmware
+Date: 2026-05-15
+Attendees: Hana, Salma, Grace, Felix
+
+Notes:
+- Felix had trouble with the VPN at the customer site again.
+- Felix will be on PTO from Thursday - hand over open tickets.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Salma: follow up before next meeting
+- Hana: update the board

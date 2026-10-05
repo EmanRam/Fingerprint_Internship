@@ -1,0 +1,13 @@
+Site rollout check-in - Motion Planning
+Date: 2026-06-11
+Attendees: Omar, Karim, Tom, Sofia
+
+Notes:
+- Tom is on PTO next week; Karim covers support.
+- Discussed the 3-day offsite agenda; Tom owns logistics.
+- Karim asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Sofia: follow up before next meeting
+- Karim: update the board

@@ -1,0 +1,14 @@
+Hiring sync - People Operations
+Date: 2026-03-17
+Attendees: Daniel, Grace, Felix, Omar
+
+Notes:
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Felix is on PTO next week; Daniel covers support.
+- Felix asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Daniel: follow up before next meeting
+- Daniel: update the board

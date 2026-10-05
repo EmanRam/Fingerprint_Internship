@@ -1,0 +1,13 @@
+1:1 notes (shared) - Firmware
+Date: 2026-08-26
+Attendees: Grace, Ahmed, Priya, Karim
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Priya mentioned the learning budget for the robotics conference.
+- Customer asked about error codes in the 200 range; Grace to send the reference sheet.
+- Priya asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Karim: update the board

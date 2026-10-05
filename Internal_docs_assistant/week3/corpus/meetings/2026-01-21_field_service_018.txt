@@ -1,0 +1,12 @@
+Site rollout check-in - Field Service
+Date: 2026-01-21
+Attendees: Yara, Ahmed, Nour, Grace
+
+Notes:
+- Ahmed raised the password reset flow - users keep getting locked out.
+- Yara is on PTO next week; Grace covers support.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Grace: follow up before next meeting
+- Nour: update the board

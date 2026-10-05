@@ -1,0 +1,12 @@
+Customer escalation sync - Motion Planning
+Date: 2026-09-12
+Attendees: Daniel, Yara, Sofia, Grace
+
+Notes:
+- Grace is on PTO next week; Sofia covers support.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Yara asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+
+Action items:
+- Yara: follow up before next meeting
+- Yara: update the board

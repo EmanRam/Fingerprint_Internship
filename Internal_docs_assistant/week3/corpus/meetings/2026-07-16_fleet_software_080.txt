@@ -1,0 +1,12 @@
+Hiring sync - Fleet Software
+Date: 2026-07-16
+Attendees: Priya, Ahmed, Salma, Lena
+
+Notes:
+- Lena is on PTO next week; Ahmed covers support.
+- Priya will be on PTO from Thursday - hand over open tickets.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+
+Action items:
+- Lena: follow up before next meeting
+- Lena: update the board

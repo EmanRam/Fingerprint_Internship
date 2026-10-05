@@ -1,0 +1,13 @@
+Retro - Marketing
+Date: 2026-04-25
+Attendees: Priya, Tom, Daniel, Salma
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Priya is on PTO next week; Daniel covers support.
+- Customer asked about error codes in the 200 range; Salma to send the reference sheet.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+
+Action items:
+- Daniel: follow up before next meeting
+- Daniel: update the board

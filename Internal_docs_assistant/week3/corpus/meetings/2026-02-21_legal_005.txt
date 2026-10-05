@@ -1,0 +1,12 @@
+Customer escalation sync - Legal
+Date: 2026-02-21
+Attendees: Yara, Salma, Daniel, Ahmed
+
+Notes:
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Yara asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Agreed to carry over the remaining sprint tickets to next sprint.
+
+Action items:
+- Yara: follow up before next meeting
+- Salma: update the board

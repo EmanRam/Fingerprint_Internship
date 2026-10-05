@@ -1,0 +1,130 @@
+# Task 7 — CI skeleton.
+# Copy to `.github/workflows/ci.yml` and fill in the TODOs.
+#
+# Two jobs with very different economics:
+#   fast-checks  — every PR, < 60s, no API key, free.
+#   eval-gate    — nightly, on demand, AND on any PR labelled `run-eval`.
+#                  Costs real money, blocks on regression. The label is how a PR
+#                  that touches prompts or retrieval opts in to being gated.
+
+name: CI
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled]   # `labeled` so adding run-eval triggers it
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 3 * * *"      # nightly eval, 03:00 UTC
+  workflow_dispatch:          # so you can trigger the eval by hand
+
+jobs:
+  # =========================================================================
+  # Runs on EVERY pull request. Keep it under a minute and free.
+  # This is the job that catches wiring bugs (e.g. the app importing the wrong graph).
+  # =========================================================================
+  fast-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          # Requirements aren't at the repo root, so tell the cache where they are.
+          cache-dependency-path: |
+            week1/requirements.txt
+            week2/requirements.txt
+
+      # TODO 1: install dependencies. Cache them — a 3-minute install on every
+      #         PR is how people learn to ignore CI.
+
+      - name: Lint
+        run: ruff check .
+
+      - name: Fast tests
+        # No API key in the environment on purpose. If a test needs one, it
+        # belongs in the live tier, not here.
+        run: pytest tests -m "not live" -q
+
+      # TODO 2: fail the job if this step takes more than 60s. A fast gate that
+      #         slowly becomes a slow gate stops being a gate.
+
+  # =========================================================================
+  # Nightly, on demand, or on a PR labelled `run-eval`. Costs money.
+  # Blocks on quality regression. Make this job a REQUIRED check for PRs that
+  # carry the label, so a red eval actually blocks the merge.
+  #
+  # Note: PRs from forks don't receive repository secrets, so the eval can't run
+  # on them. Push branches to the main repo instead.
+  # =========================================================================
+  eval-gate:
+    if: >-
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'pull_request' &&
+       contains(github.event.pull_request.labels.*.name, 'run-eval'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: |
+            week1/requirements.txt
+            week2/requirements.txt
+
+      # TODO 3: install dependencies.
+
+      - name: Run evaluation
+        env:
+          # Secrets live in the repo's Settings → Secrets, never in this file.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LANGCHAIN_API_KEY: ${{ secrets.LANGCHAIN_API_KEY }}
+          LANGCHAIN_TRACING_V2: "true"
+        # TODO 4: run the eval and write results to eval_results.json.
+        #         Make sure it BYPASSES the Task 6 cache — a cached run would
+        #         pass this gate without ever calling the generate node.
+        run: python scripts/run_eval.py --out eval_results.json --no-cache
+
+      - name: Compare against baseline
+        # TODO 5: load eval_baseline.json and eval_results.json.
+        #
+        #   Fail if correctness or groundedness dropped by more than the
+        #   committed tolerance. Exit non-zero — that's what makes it a gate
+        #   rather than a report.
+        #
+        #   Print the CATEGORY SPLIT, not just the blended score. A blended 0.85
+        #   hides a multi-hop score of 0.4, and the split is the roadmap.
+        run: python scripts/check_baseline.py
+
+      - name: Post regression report
+        if: always()
+        # TODO 6: comment on the PR (or open an issue on a scheduled run) listing
+        #         WHICH examples changed verdict versus baseline.
+        #
+        #         "0.90 → 0.85" is not actionable.
+        #         "Examples 7 and 22 flipped correct → incorrect" is.
+        run: echo "TODO"
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: eval_results.json
+
+# ---------------------------------------------------------------------------
+# Prove the gate works before you call this done:
+#   1. Open a PR that deletes the refusal instruction from the generate prompt.
+#   2. Add the `run-eval` label to it. eval-gate runs as a check on the PR.
+#      (fast-checks should ALSO go red: Task 2's refusal-string test catches
+#      this before the eval even runs. Two independent gates, both red.)
+#   3. Watch it go red. Screenshot it into your PR description.
+#   4. Revert.
+#
+# A gate nobody has ever seen fire is decoration.
+# ---------------------------------------------------------------------------

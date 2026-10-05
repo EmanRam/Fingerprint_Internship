@@ -1,0 +1,14 @@
+Retro - Hardware Sustaining
+Date: 2026-06-13
+Attendees: Jonas, Tom, Daniel, Salma
+
+Notes:
+- Daniel will be on PTO from Thursday - hand over open tickets.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Jonas asked whether the rover can handle the ramp at the Leipzig site - check the manual.
+- Salma raised the password reset flow - users keep getting locked out.
+- Customer asked about error codes in the 200 range; Daniel to send the reference sheet.
+
+Action items:
+- Salma: follow up before next meeting
+- Jonas: update the board

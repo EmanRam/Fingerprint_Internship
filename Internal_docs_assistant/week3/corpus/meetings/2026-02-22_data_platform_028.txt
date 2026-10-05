@@ -1,0 +1,13 @@
+Planning - Data Platform
+Date: 2026-02-22
+Attendees: Yara, Ahmed, Omar, Hana
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Ahmed had trouble with the VPN at the customer site again.
+- Discussed the 3-day offsite agenda; Yara owns logistics.
+- Ahmed raised the password reset flow - users keep getting locked out.
+
+Action items:
+- Ahmed: follow up before next meeting
+- Hana: update the board

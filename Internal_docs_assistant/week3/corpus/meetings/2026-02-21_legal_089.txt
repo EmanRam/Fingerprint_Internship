@@ -1,0 +1,12 @@
+Planning - Legal
+Date: 2026-02-21
+Attendees: Priya, Lena, Hana, Karim
+
+Notes:
+- Karim raised the password reset flow - users keep getting locked out.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Karim will be on PTO from Thursday - hand over open tickets.
+
+Action items:
+- Priya: follow up before next meeting
+- Priya: update the board

@@ -1,0 +1,14 @@
+Weekly team meeting - Firmware
+Date: 2026-08-14
+Attendees: Yara, Jonas, Mariam, Nour
+
+Notes:
+- Nour mentioned the learning budget for the robotics conference.
+- Nour raised the password reset flow - users keep getting locked out.
+- Customer asked about error codes in the 200 range; Mariam to send the reference sheet.
+- Nour had trouble with the VPN at the customer site again.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+
+Action items:
+- Jonas: follow up before next meeting
+- Nour: update the board

@@ -1,0 +1,13 @@
+Retro - Customer Success
+Date: 2026-04-24
+Attendees: Daniel, Salma, Karim, Tom
+
+Notes:
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Customer asked about error codes in the 200 range; Daniel to send the reference sheet.
+- Daniel is on PTO next week; Salma covers support.
+- Tom had trouble with the VPN at the customer site again.
+
+Action items:
+- Daniel: follow up before next meeting
+- Tom: update the board

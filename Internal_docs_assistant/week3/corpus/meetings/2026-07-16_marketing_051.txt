@@ -1,0 +1,14 @@
+Customer escalation sync - Marketing
+Date: 2026-07-16
+Attendees: Tom, Jonas, Ahmed, Lena
+
+Notes:
+- Reminder: expense claims for the trade show are due soon.
+- Ahmed is on PTO next week; Tom covers support.
+- Carry-over from last retro: still need a decision on flaky integration tests.
+- Travel to the Cairo office for the R3 training is approved for two people.
+- Ahmed had trouble with the VPN at the customer site again.
+
+Action items:
+- Lena: follow up before next meeting
+- Jonas: update the board

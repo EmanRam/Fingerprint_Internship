@@ -1,0 +1,13 @@
+Retro - Customer Success
+Date: 2026-07-09
+Attendees: Jonas, Yara, Sofia, Mariam
+
+Notes:
+- Agreed to carry over the remaining sprint tickets to next sprint.
+- Payload test on the R3 prototype: overload warning triggered at 130 kg as designed.
+- Battery swap trial on site 4: average dock queue 6 minutes.
+- Sofia had trouble with the VPN at the customer site again.
+
+Action items:
+- Mariam: follow up before next meeting
+- Mariam: update the board
